@@ -1,3 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Java1</string>
+    <string name="app_name">Привет</string>
+    <string name="next">Вперед</string>
+    <string name="your_name">Имя</string>
+    <string name="hello">"твое имя, %s"</string>
+    <string name="exit">назад</string>
 </resources>
